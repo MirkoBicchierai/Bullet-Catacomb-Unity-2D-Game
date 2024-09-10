@@ -9,22 +9,22 @@ Below are some screenshots of the game:
 <hr>
 
 <p align="center">
-  <img src="./ScreenShoot/Immagine 2024-09-10 153411.png" width="45%" />
+  <img src="./ScreenShoot/Immagine 2024-09-10 153411.png" width="45%" height="275px" />
 </p>
 
 <p align="center">
-  <img src="./ScreenShoot/image50.png" width="45%" />
-  <img src="./ScreenShoot/image51.png" width="45%" />
+  <img src="./ScreenShoot/image50.png" width="45%" height="275px"/>
+  <img src="./ScreenShoot/image51.png" width="45%" height = "275px"/>
 </p>
 
 <p align="center">
-  <img src="./ScreenShoot/Screenshot 2024-09-10 153625.png" width="45%" />
-  <img src="./ScreenShoot/Immagine 2024-09-10 153455.png" width="45%" />
+  <img src="./ScreenShoot/Screenshot 2024-09-10 153625.png" width="45%" height="275px"/>
+  <img src="./ScreenShoot/Immagine 2024-09-10 153455.png" width="45%" height="275px" />
 </p>
 
 <p align="center">
-  <img src="./ScreenShoot/Immagine 2024-09-10 154842.png" width="45%" />
-  <img src="./ScreenShoot/Immagine 2024-09-10 154958.png" width="45%" />
+  <img src="./ScreenShoot/Immagine 2024-09-10 154842.png" width="45%" height="275px" />
+  <img src="./ScreenShoot/Immagine 2024-09-10 154958.png" width="45%" height="275px"/>
 </p>
 
 <hr>
