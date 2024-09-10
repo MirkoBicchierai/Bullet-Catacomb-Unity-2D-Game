@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7b44c4079edb9eb47924109373ce43f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ai: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - heathbar: {instanceID: 0}
+  - healPrefab: {instanceID: 0}
+  - dropPosition: {instanceID: 0}
+  - orbPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
